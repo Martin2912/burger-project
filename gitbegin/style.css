@@ -3,6 +3,7 @@ body {
     flex-direction:column;
     align-items:center;
     height: 100vh;
+    background-color: #44bd32 ;
 }
 
 h1 {
